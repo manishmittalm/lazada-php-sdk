@@ -1,0 +1,26 @@
+{
+    "name": "manishmittalm/lazada-php-sdk",
+    "description": "A Lazada PHP SDK for PHP",
+    "keywords": [
+        "lazada",
+        "php"
+    ],
+    "homepage": "https://github.com/manishmittalm/lazada-php-sdk",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Manish Mittal",
+            "email": "developer.mittal@gmail.com",
+            "homepage": "https://www.manishmittal.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "manish\\lazada\\": "src"
+        }
+    }
+}
